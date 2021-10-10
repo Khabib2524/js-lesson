@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.modal{
+    width:500px;
+    height:250px;
+    border:1px solid #fcfcfc;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #000;
+    margin: 0 auto;
+    padding: 0;
+    display: none;
+}
+#hide{
+    float:right;
+}
